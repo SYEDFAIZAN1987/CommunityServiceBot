@@ -1,6 +1,6 @@
 # Carefirst Chatbot - Proprietary AI Chatbot
 
-![Carefirst Logo](carefirst_logo.png)
+![Carefirst Logo](https://github.com/SYEDFAIZAN1987/CareFirst/blob/main/Carefirst/carefirst_logo.png)
 
 ## 📌 Project Overview
 
