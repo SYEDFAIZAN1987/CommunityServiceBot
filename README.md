@@ -18,7 +18,7 @@ The chatbot leverages **Giskard** for robust **Retrieval-Augmented Generation (R
 - **Retrieval-Augmented Generation (RAG)** for knowledge-based responses
 - **Vector Search** using `FAISS`
 - **Live Web Search** using `Tavily API`
-- **RAG Evaluation** using `Giskard` and `RAGAS`
+- **RAG Evaluation** using `Giskard`
 - **Pre-trained Knowledge Base** from Carefirst Ontario's data
 
 ---
@@ -29,7 +29,7 @@ The chatbot leverages **Giskard** for robust **Retrieval-Augmented Generation (R
 Carefirst/
 │── app.py              # Chatbot implementation
 │── eval.py             # Giskard-based evaluation script
-│── rag_eval_report.html # RAGAS evaluation report (output)
+│── rag_eval_report.html # evaluation report (output)
 │── base.csv            # Knowledge base for RAG testing
 │── my_testset.jsonl    # Generated test set
 │── carefirst_logo.png  # Branding image
@@ -93,28 +93,6 @@ This performs:
 
 ---
 
-## 🧪 RAGAS Metrics Evaluation
-
-The chatbot’s accuracy is validated using **RAGAS metrics**, including:
-
-- **Context Recall** (relevant document retrieval)
-- **Faithfulness** (ground truth consistency)
-- **Context Precision** (correct document matching)
-- **Answer Relevancy** (response appropriateness)
-
-To run RAGAS-based evaluation:
-
-```bash
-python ragas.py
-```
-
-This generates a **detailed RAGAS evaluation report**, stored as:
-
-```yaml
-ragas_eval_report.html
-```
-
-View it in any web browser.
 
 ---
 
@@ -136,12 +114,6 @@ For inquiries, contact **Dr. Yvonne Leung**.
 
 ---
 
-## ✅ Key Inclusions
-
-- ✅ **Branding & Proprietary Notice**
-- ✅ **Evaluation Process using Giskard & RAGAS**
-- ✅ **Installation & Setup Guide**
-- ✅ **Project Structure & Key Files**
 
 
 
