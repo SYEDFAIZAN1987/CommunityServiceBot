@@ -1,0 +1,784 @@
+Who is eligible for the Old Age Security Pension, and how do I apply?
+
+To qualify for the monthly Old Age Security pension you must:
+
+Be 65 years of age or older
+
+Be a Canadian citizen or legal immigrant
+
+Be a Canadian resident for 10 years after the age of 18
+
+Submit the necessary documents
+Eligibility / Target Population: Able to direct own care, transfer independently and able to administer own medication with supervision.
+
+Languages: English
+
+Area Served:
+
+Scarborough and area
+
+Scarborough and area
+
+This information was last completely updated on November 17, 2023
+Licensed by the Retirement Homes Regulatory Authority Fees: For services and accomodation Application: For application process call office Languages: English Area Served: Toronto, Dufferin County, Durham Region, Muskoka District, Peel Region, Simcoe County, Waterloo Region, Wellington County, and York Region Toronto, Dufferin County, Durham Region, Muskoka District, Peel Region, Simcoe County, Waterloo Region, Wellington County, and York Region This information was last completely updated on August 31, 2023 © 2024, Central West Local Health Integration Network
+InterRAI-CHA assessment with MAPLE score of 3-5
+
+Medically stable with medication list and blister pack prepared
+
+Availability and duration of stay is dependent on scheduling
+
+Program Content
+
+Safe, comfortable, home-like environment
+
+Semi-private room accommodation
+
+Around the clock care and ADL support by certified Personal Support Worker
+
+Warm nutritious meals and snacks
+
+Activities before bed time
+
+Social interaction and engagement
+
+Medication assistance
+
+24 hours bundled care with access to Adult Day Program and Transportation
+
+Operating Hours
+
+Regular Hours:
+
+Adult Day Program: Monday to Sunday 9:00a.m. – 5:00 p.m.
+
+Overnight Stay Program: Monday to Sunday 5:00 p.m. – 9:00 a.m.
+
+For Information and Enrollment, please call: (905) 752-0402
+
+FOLLOW US
+
+Join us on social media to see updates and news from Carefirst.
+
+twitter
+
+facebook
+
+linkedin
+
+CONTACT US
+
+T: 416-502-2323
+
+F: 416-502-2382
+
+E:
+
+[email protected]
+
+Visit our
+
+contact
+
+page
+
+Home
+
+Privacy Policy
+
+Complaint Policy
+
+AODA
+
+Carefirst Equity, Diversity and Inclusivity Committee Report
+
+Reconciliation and Equity Policy
+
+COVID-19 Updates
+
+COVID-19 Workplace Safety Policy
+
+Client Code of Conduct, Bill of Rights
+
+The Donor Bill of Rights
+
+Risk Management Program Plan Executive Summary
+
+Carefirst Seniors & Community Services Association
+
+Carefirst Family Health Team
+
+Carefirst Foundation
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "To assess eligibility for Applewood Retirement Residence in Markham, each resident is evaluated prior to admission to ensure their needs can be met by the facility. The eligibility criteria include being able to direct one's own care, transfer independently, and administer medication with supervision. Additionally, applicants must be medically stable with a prepared medication list and blister pack. For further details or to begin the application process, you can contact Applewood Retirement Residence directly at 705-749-1500 or via email at info@levliving.com."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  60%|████████████████████████████████████████████████████████████████▊                                           | 60/100 [06:02<06:34,  9.85s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The contact phone number for Armenian Family Support Services is 416-431-5549. They are located at Holy Trinity Armenian Church, 920 Progress Ave, Toronto, ON, M1G 3T5. If you need further assistance, feel free to reach out!"
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  61%|█████████████████████████████████████████████████████████████████▉                                          | 61/100 [06:05<05:12,  8.00s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Ambu Trans Medical Transportation Services supports a wide range of languages, including English, French, Cantonese, Mandarin, and many others. For a full list of supported languages or to confirm specific language support, you can contact them directly at 416-423-2323 or via email at info@ambutrans.on.ca."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  62%|██████████████████████████████████████████████████████████████████▉                                         | 62/100 [06:10<04:30,  7.12s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Current Search",
+    "action_input": "Eligibility for receiving medical care at Appletree Medical Centre in Scarborough, specifically for elderly individuals with minor illnesses or injuries"    
+}
+```
+Observation: [{'url': 'https://www.torontocentralhealthline.ca/mobile/displayservice.aspx?id=153865', 'content': 'Appletree Medical Centre - Scarborough - torontocentralhealthline.ca Events and health classes Careers in Healthcare News about Healthcare Go to thehealthline.ca to find services across Ontario Français Organization: Appletree Medical Centre - Scarborough \xa0 Phone Numbers: Hours: Mon 9am-7pm * Tue-Fri-Sun 9am-4pm * Sat 9am-3pm * Sun 9am-5pm Email: info@appletreemedicalgroup.com Website: appletreemedicalgroup.com/clinic-locations/2025-mi... 2025 Midland Ave Midland Ave and Ellesmere Rd Location: Scarborough Service Description: Walk-in medical clinic with associated family practice * doctors and nurses assess and treat minor illnesses and injuries   sleep care Most services covered by OHIP Eligibility - Population(s) Served: People who need medical care for minor illnesses and injuries Area(s) Served: Scarborough and area Walk-In Medical Clinics  © 2025, Ontario Health atHome © 2025, thehealthline.ca All rights reserved.'}, {'url': 'https://211central.ca/record/92493147/', 'content': 'People who need medical care for minor illnesses and injuries Residency Requirements: Scarborough and area ... 2025 Midland Ave Toronto, ON, M1P 3E2 Intersection: Midland Ave and Ellesmere Rd; Scarborough Appletree Medical Centre Site Location: Scarborough Open in Google Maps Hours of Operation Mon 9am-7pm * Tue-Fri-Sun 9am-4pm * Sat 9am-3pm'}, {'url': 'https://torontoservicedirectory.ca/record/91201441/appletree-medical-centre-walk-in-medical-clinic/', 'content': 'People who need medical care for minor illnesses and injuries Residency Requirements: Scarborough and area ... 2025 Midland Ave Toronto, ON, M1P 3E2 Intersection: Midland Ave and Ellesmere Rd; Scarborough Appletree Medical Centre Site Location: Scarborough Open in Google Maps Hours of Operation Mon 9am-7pm * Tue-Fri-Sun 9am-4pm * Sat 9am-3pm'}, {'url': 'https://211central.ca/record/92498368/', 'content': 'Walk-in medical clinic Eligibility People who need medical care for minor illnesses and injuries Residency Requirements: Toronto Application Process Call or visit * no referral required Phone 647-722-2370 Fax 647-490-6330 Website Visit Website Languages English Fees Most services covered by OHIP Accessibility Partially Accessible Topic(s)'}, {'url': 'https://211ontario.ca/service/92498364/appletree-medical-group-walk-in-medical-clinic/', 'content': 'Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries Eligibility People who need medical care for minor illnesses and injuries Residency Requirements: Toronto (East York) Application Process Call or visit * no referral required Phone 647-722-2370 Fax 647-490-6330 Web Site Visit Website Languages English Fees'}]
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "Appletree Medical Centre in Scarborough provides walk-in medical services for individuals who need care for minor illnesses and injuries. Most services are covered by OHIP, and no referral is required. The clinic serves residents of Scarborough and the surrounding area. Your elderly mother can visit the clinic for assistance with minor health concerns. For more details, you can contact them at 647-722-2370 or visit their location at 2025 Midland Ave, Scarborough."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  63%|████████████████████████████████████████████████████████████████████                                        | 63/100 [06:21<04:58,  8.07s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The intersection near Amplifon - Taunton is Keith Ross Dr and Taunton Rd W, located in Oshawa (Stevenson North). Please note that this location is not in Markham but in Durham Region."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  64%|█████████████████████████████████████████████████████████████████████                                       | 64/100 [06:25<04:09,  6.94s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The address of the Asperger's Society of Ontario is 3219 Yonge St, Suite 231, Toronto, ON M4N 3S1. You can contact them at 416-651-4037 or toll-free at 1-844-535-4037. For more information, you can visit their website at www.asontario.org."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  65%|██████████████████████████████████████████████████████████████████████▏                                     | 65/100 [06:31<03:48,  6.52s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The contact number for Anovity Professional Home Healthcare is 647-829-5874. You can also reach them via email at Info@anovityphhc.ca or visit their website at anovityphhc.ca. Please note that their services are primarily offered in the Durham Region, which does not include Richmond Hill. If you are looking for services specifically in Richmond Hill, I recommend considering AC Nursing & Health Services (All-Care) at 905-770-9450 or VHA Home HealthCare at 416-489-2500, as they serve the Greater Toronto Area, including Richmond Hill."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  66%|███████████████████████████████████████████████████████████████████████▎                                    | 66/100 [06:37<03:36,  6.36s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The organization mentioned in the context is ComForCare Home Care - North York."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  67%|████████████████████████████████████████████████████████████████████████▎                                   | 67/100 [06:42<03:24,  6.19s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The contact phone number for Ask4Care Support Services is 647-557-3321. For after-hours inquiries, you can call 416-565-9458. If you need further assistance, feel free to ask!"
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  68%|█████████████████████████████████████████████████████████████████████████▍                                  | 68/100 [06:48<03:13,  6.05s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The support for social housing serves various areas across Canada, including specific organizations and services in the Greater Toronto Area, Durham Region, and other parts of Ontario. The contact information for these services was last updated on different dates depending on the organization. For example:\n\n- Canada Mortgage and Housing Corporation: Last updated on November 3, 2023.\n- Aboriginal Housing Support Centre - Scarborough West Office: Last updated on February 14, 2024.\n- Toronto Shelter, Support and Housing Administration: Last updated on September 20, 2023.\n\nFor more detailed information about specific services or locations, please refer to the respective organizations' websites or contact them directly."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  69%|██████████████████████████████████████████████████████████████████████████▌                                 | 69/100 [06:54<03:03,  5.92s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The website URL for the ARCH Disability Law Centre is https://archdisabilitylaw.ca. The accessibility features available at its location include a wheelchair accessible automatic main entrance, a dedicated accessible washroom with all features, and an elevator with braille features."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  70%|███████████████████████████████████████████████████████████████████████████▌                                | 70/100 [06:58<02:38,  5.29s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Amplifon in Cobourg supports English as the primary language. This information was last completely updated on September 1, 2023."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  71%|████████████████████████████████████████████████████████████████████████████▋                               | 71/100 [07:00<02:13,  4.59s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The Armenian Relief Society Toronto Roubina Chapter offers a variety of support services to newcomers, refugees, and seniors. These include:\n\n1. **Social Services**:\n   - Needs assessment, information, and referral to community and social services.\n   - Assistance with filling out government forms (e.g., housing, Ontario Works, Ontario Disability Support Program).\n   - Support in finding housing.\n   - Help with child care and registering children in school.\n   - Assistance with accessing health care and youth services.\n   - Interpretation services.\n\n2. **Newcomer and Refugee Support**:\n   - Orientation and adaptation support for newcomers and refugees.\n   - Short-term supportive family counselling for those facing challenges adjusting to life in Canada.\n   - Referrals to employment counselling, including resume help, job readiness clinics, skills development, and establishing social/professional networks.\n\n3. **Community Support**:\n   - Volunteer visitation to seniors' homes, providing Armenian meals, emotional support, pastoral services, and organizing cultural events.\n   - Organizing community events such as food drives, bone marrow drives, and social/health education lectures.\n\n4. **Eligibility and Accessibility**:\n   - Services are free and available to children, youth, adults, and seniors from the community.\n   - Languages offered: English and Armenian.\n   - The office is wheelchair accessible with designated parking and barrier-free washrooms.\n\nFor more information or to access these services, you can contact them at 416-495-0644 or email arssocialservices@gmail.com. Their office is located at ARS Social Services, 45 Hallcrown Place, Toronto, ON M2J 4Y4."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  72%|█████████████████████████████████████████████████████████████████████████████▊                              | 72/100 [07:08<02:32,  5.43s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The eligibility criteria for receiving assistance from ARCH Disability Law Centre are as follows:\n\n1. Individuals must have a disability.\n2. They must meet financial and case eligibility guidelines set by the organization.\n\nARCH Disability Law Centre provides services to people with disabilities, including summary advice, referrals, limited representation in test case litigation, and representation for individuals in priority cases. Services are available in English and French (interpreters can be arranged by appointment). The area served includes the Greater Toronto Area.\n\nFor more information or to apply, individuals can contact the Intake Coordinator and Human Rights Worker at 416-482-8255 or toll-free at 1-866-482-2724. Additional details can be found on their website: archdisabilitylaw.ca."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  73%|██████████████████████████████████████████████████████████████████████████████▊                             | 73/100 [07:11<02:08,  4.75s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Current Search",
+    "action_input": "Carefirst Ontario payment methods and order tracking"
+}
+```
+Observation: [{'url': 'https://wellnessprogram.carefirstontario.ca/Club/Forms/MemberRenewExt.aspx', 'content': 'Payment Method: Online (You may pay by your Credit Card without creating a PayPal account) I have read and agree to release Carefirst Seniors and Community Services Association and Carefirst Foundation and their directors, officers, employees, and agents form any claims damages, costs, expenses or any other liability arising from any injury or'}, {'url': 'https://provider.carefirst.com/providers/news/track-remittance-data-online2013.page', 'content': 'May 14, 2013 - Does your practice currently receive an 835 remittance advice? If so, you can now conveniently keep track of all of your payment receipts online through the Provider Portal (CareFirst Direct).. This capability is available to users who currently view claims status through CareFirst Direct and will not replace the remittance advice you currently receive from your clearinghouse.'}, {'url': 'https://www.doxo.com/info/carefirst-inc', 'content': 'Pay your Carefirst Blue Cross Blue Shield bill online with doxo, Pay with a credit card, debit card, or direct from your bank account. doxo is the simple, protected way to pay your bills with a single account and accomplish your financial goals. Manage all your bills, get payment due date reminders and schedule automatic payments from a single app.'}, {'url': 'https://member.carefirst.com/members/drug-pharmacy-information/drug-coverage-filling-prescriptions.page', 'content': 'Receive email notifications of order status; Choose from multiple payment options; Members can sign up for mail order three ways: Online - Go to My Account, click on My Coverage, select Drug and Pharmacy Resources, select Mail Order Prescriptions and select Request a New Prescription to set up an account.'}, {'url': 'https://carefirstontario.ca/medical/fht/', 'content': 'Carefirst FHT may use personal health information for the purposes for which it is collected, as listed above, e.g., to treat and care for you, as well as to: Get payment for your treatment and care (from OHIP, WSIB, your private insurer, or others) Plan, administer and manage our internal operations'}]
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario accepts online payments, including credit card payments without requiring a PayPal account. Additionally, you can track payment receipts and order status online through their respective portals or accounts. For more specific details, you may visit their website or contact their support team."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  74%|███████████████████████████████████████████████████████████████████████████████▉                            | 74/100 [07:21<02:45,  6.37s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The application details for ARCH Disability Law Centre are as follows:\n\n- **Application Process**: Call to speak with the Intake Coordinator and Human Rights Worker.\n- **Eligibility**: People with disabilities who meet financial and case eligibility guidelines.\n\n**Contact Information:**\n- Phone: 416-482-8255\n- Toll-Free: 1-866-482-2724\n- TTY: 416-482-1254\n- Fax: 416-482-2981\n- Email: intake@arch.clcj.ca\n- Website: [archdisabilitylaw.ca](https://archdisabilitylaw.ca)\n\n**Address:**\n55 University Ave, 15th Floor, Toronto, ON, M5J 2H7 (Cross street: University Ave and King St W)\n\n**Hours of Operation:**\nMonday to Friday: 9 am - 1 pm, 2 pm - 5 pm (No intake on Thursdays).\n\n**Accessibility Notes:**\n- Wheelchair accessible automatic main entrance.\n- Dedicated accessible washroom with all features.\n- Elevator with braille features.\n\nFor further assistance, you can contact them directly using the provided details."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  75%|█████████████████████████████████████████████████████████████████████████████████                           | 75/100 [07:26<02:30,  6.02s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The website URL for the Aphasia Institute - Pat Arato Aphasia Centre is www.aphasia.ca. The administration hours are Monday to Friday, 8:30am to 4:00pm. Please note that administrative/program staff may work remotely at times, so the building is not open every day, and appointments are required."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  76%|██████████████████████████████████████████████████████████████████████████████████                          | 76/100 [07:30<02:05,  5.21s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Ask4Care Support Services offers a variety of care and support services, including personal support, care for the elderly and individuals with special needs or acquired brain injuries (ABI), assistance with medical appointments and grocery shopping, companionship, nursing services, palliative care, child care support, medication administration and reminders, foot care, therapy services, caregiver relief, live-in caregivers, and housekeeping. To find out about the fees for these services, you can contact them directly at 647-557-3321 or via email at info@ask4care.com. They also offer free consultations to discuss your needs."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  77%|███████████████████████████████████████████████████████████████████████████████████▏                        | 77/100 [07:36<02:08,  5.57s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Current Search",
+    "action_input": "Application details for accessing services from Arthritis Society Canada and how individuals with arthritis can apply"
+}
+```
+Observation: [{'url': 'https://arthritissociety-grants.smapply.io/prog/community_action_grants/', 'content': 'This program will help community members, groups and organizations deliver arthritis and joint pain related programs, services, or information directly in communities. Application deadline is October 18, 2024 at 11:59pm PST. Successful applicants will be contacted in February 2025. All grant activities must be complete by March 2026.'}, {'url': 'https://arthritis.ca/support-education/support-in-your-community/community-action-grants', 'content': 'Arthritis Society Canada expects to fund up to 4 Community Action Grants for the 2024 - 2025 year. Our grant funding is always contingent upon the generosity of our donors. The maximum grant per application is $5,000 for up to one year of activities.'}, {'url': 'https://arthritis.galaxydigital.com/need/', 'content': 'View Details. Flexible. Camp Medical Team: Nurse, Physiotherapist, Occupational Therapist, Pediatric Rheumatologist, or Social Worker (multiple locations) ... Nov 1, 2024 through Jun 1, 2025. Event Coordinator - Vancouver (unpaid internship) ... Arthritis Fire Ball Vancouver'}, {'url': 'https://arthritis.ca/', 'content': 'Arthritis Society Canada is the national charity dedicated to extinguishing arthritis. We represent the six million Canadians living with arthritis today, and the millions more who are impacted or at risk. ... January 15, 2025. Top 10 Arthritis research breakthroughs in 2024 funded by Arthritis Society Canada. December 06, 2024. Ontario Health'}, {'url': 'https://arthritis.ca/researchers/research-programs-awards/current-funding-opportunities', 'content': 'Our research funding is always contingent on the generosity of our donors. The 2024-25 research programs descriptions are listed below.. If you have any questions about the research program, please contact research@arthritis.ca.. If you would like to be added to our mailing list for future funding opportunities, please fill out this form.. All applications to any Arthritis Society Canada'}]
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "Individuals with arthritis can access services from Arthritis Society Canada through various programs and initiatives. For example, the Community Action Grants program helps community members, groups, and organizations deliver arthritis-related programs, services, or information directly in communities. The application deadline for this program is October 18, 2024, at 11:59 PM PST, and successful applicants will be contacted in February 2025. All grant activities must be completed by March 2026. Additionally, Arthritis Society Canada funds up to four Community Action Grants for the 2024-2025 year, with a maximum grant of $5,000 per application for up to one year of activities. For more details, you can visit their website at https://arthritis.ca/."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  78%|████████████████████████████████████████████████████████████████████████████████████▏                       | 78/100 [07:47<02:36,  7.09s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Vector Search",
+    "action_input": "social housing services and fees in Ontario"
+}
+```
+Observation: Canada. Canada Mortgage and Housing Corporation
+
+700 Montreal Rd, Ottawa, ON  K1A 0P7 613-748-2000
+
+Add to Clipboard
+
+Canada. Canada Mortgage and Housing Corporation - Indigenous and the North Housing Solutions
+
+70 York St, Suite 1100, Toronto, ON  M5J 1S9 613-748-2000
+
+Add to Clipboard
+
+Co-operative Housing Federation of Canada (The) - Ontario Region
+
+720 Spadina Ave, Suite 313, Toronto, ON  M5S 2T9 416-366-1711
+
+Add to Clipboard
+
+Ecuhome Corporation - Jameson Avenue Tenancy Office - Shared Housing and Support Services
+
+Tenancy Office, 149 Jameson Ave, Basement, Toronto, ON  M5J 1W9 416-593-9313 ext 1
+
+Add to Clipboard
+
+Fontbonne Ministries - Fontbonne Place
+
+791 Queen St E, Toronto, ON  M4M 1H6 416-465-6069 ext 5231
+
+Add to Clipboard
+
+Ontario Non-Profit Housing Association
+
+100 University Ave, Suite 500, Toronto, ON  M5J 1V6 416-927-9144
+
+Add to Clipboard
+
+Options for Homes Non-Profit Corporation - Toronto
+
+468 Queen St E Suite 310, Toronto, ON  M5A 1T7 416-867-1501
+
+Add to Clipboard
+
+Society of Saint Vincent de Paul - Amelie House
+
+126 Pape Ave, Toronto, ON  M4M 2V8 416-465-0475
+
+Add to Clipboard
+
+Youth Without Shelter - Housing and After-Care Program
+
+6 Warrendale Court, Etobicoke, ON  M9V 1P9 416-748-0110 ext 27
+
+Add to Clipboard
+
+These services may or may not be regulated in Ontario. Consumer Protection Ontario can help you ask the right questions before you choose a service. If you have a concern or serious complaint about a non-regulated service, visit www.ontario.ca/page/consumer-protection-ontario/ for further information.
+Tenants look after their own laundry and housekeeping Fees: Service - (As of Jan/22) $1195-$1445/mth + meals ($330/month/person covers the cost of one meal a day) Application: Call for an appointment Eligibility / Target Population: 65 year(s) and up * Dutch heritage Languages: English * Dutch Area Served: Toronto and Peel Region Toronto and Peel Region This information was last completely updated on May 22, 2024 © 2024, Central West Local Health Integration Network
+phone service material support like free clothing, toiletries, diapers, menstrual products, snacks, and other donated items Community Host Program connect refugee claimants in need of emergency shelter with a host willing to accommodate them temporarily Fees: None for services; for housing: rent is geared to income (City of Toronto subsidy) Application: Call, email or visit in person Eligibility / Target Population: People who are refugee claimants, including people with refused refugee claims; transitional housing: recently arrived families (no singles)
+North-East - Hands TheFamilyHelpNetwork.ca (Legal name: Algonquin Child and Family Services) (1-855-376-6376)
+
+Northern
+
+Lutheran Community Care (1
+
+855
+
+376
+
+6673)
+
+South
+
+East
+
+Extend
+
+A
+
+Family (1
+
+855
+
+237
+
+6737)
+
+South-West - Community Services Coordination Network (1-877-480-2726)
+
+Toronto - Surrey Place Centre (1-855-372-3858) Fees: None Application: Call or visit the local Developmental Services Ontario agency Online application information and form Eligibility / Target Population: Adults in Ontario with documentation confirming age, residency and a psychological assessment * applicants are screened against a cognitive, adaptive and age-of-onset criteria Languages: English * French Language Notes: French programs offered * French publications and website Area Served: Ontario Ontario This information was last completely updated on September 7, 2023 © 2024, THL Information Network
+URL: https://www.centraleasthealthline.ca/displayservice.aspx?id=50831
+
+Organization: Kawartha Lakes (City of) - Community Housing
+
+Phone Numbers: 705-324-9870
+
+Toll-Free: 1-877-324-9870
+
+Fax: 705-328-2875
+
+Email: applyforhousing@kawarthalakes.ca
+
+Website: www.kawarthalakes.ca
+
+Address:
+
+68 Lindsay St N
+
+Lindsay, ON
+
+K9V 0N7
+
+Map
+
+68 Lindsay St N
+
+Lindsay, ON
+
+K9V 0N7
+
+Map
+
+Accessibility:     Wheelchair Accessible
+
+Hours: Mon-Fri 8:30am-4:30pm
+
+Executives: Manager of Housing
+
+Service Description: Administration of social housing:
+
+Haliburton Community Housing - Parklane Apartments
+
+help to maintain housing
+
+help to find housing
+
+help with financial assistance
+
+help for landlords
+
+help with support services
+
+help with emergency housing
+
+KLH Housing Corporation - Affordable rental housing for seniors, adults and families in the City of Kawartha Lakes and the County of Haliburton, including people with special social, physical, developmental and psychological needs.
+
+Services and Programs:
+
+Haliburton Community Housing - Parklane Apartments
+
+Haliburton Community Housing Corporation - Echo Hills Apartments
+
+Housing Services
+
+Monmouth Township Non-Profit Housing Corporation
+
+Neighbourhood Housing in Lindsay - Dunoon Terrace
+
+Staanworth Non-Profit Housing Corporation
+
+KLH Housing Corporation - Affordable rental housing for seniors, adults and families in the City of Kawartha Lakes and the County of Haliburton, including people with special social, physical, developmental and psychological needs.
+
+Fees: no fees
+
+Application: Application
+
+Languages: English
+
+Area Served:
+
+City of Kawartha Lakes ; Haliburton County
+
+City of Kawartha Lakes ; Haliburton County
+
+This information was last completely updated on March 11, 2024
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "Social housing services in Ontario include assistance with finding and maintaining housing, financial assistance, emergency housing support, and affordable rental housing for seniors, adults, and families. Some organizations also provide additional support services such as help for landlords, material support (e.g., clothing, toiletries), and community host programs for refugee claimants. Fees for these services vary: many are free, while some housing options may have costs such as rent geared to income or specific service fees (e.g., meals). For example, Kawartha Lakes Community Housing offers services without fees, while other programs may charge nominal fees based on the services provided."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  79%|█████████████████████████████████████████████████████████████████████████████████████▎                      | 79/100 [07:59<03:01,  8.65s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Ask4Care Support Services supports a wide range of languages, including English, Arabic, Chinese (Cantonese and Mandarin), Dutch, German, Hindi, Italian, Korean, Polish, Portuguese, Russian, and Spanish. Additionally, support services can be offered in a variety of other languages upon request.\n\nThe areas served by Ask4Care Support Services include Angus, Stroud, Innisfil, Toronto, Peel Region, and York Region."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  80%|██████████████████████████████████████████████████████████████████████████████████████▍                     | 80/100 [08:03<02:23,  7.16s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Current Search",
+    "action_input": "What payment methods can customers use for purchases and how can they track their orders after purchase on AgeComfort.com?"
+}
+```
+Observation: [{'url': 'https://www.aftership.com/brands/agecomfort.com', 'content': 'AgeComfort.com Order Tracking & Tech Stack - AfterShip AgeComfort.com Order Tracking AgeComfort.com is using 14 eCommerce software to power their online business, such as Google Ads, Google Maps, Google Analytics, etc. View all software used by AgeComfort.com AgeComfort.com is using 2 carriers to delivery their order, including Canada Post, UPS. How can I track AgeComfort.com order status?You can track your order status in AfterShip tracking page: https://www.aftership.com/track by using the tracking number that you received in your order confirmation email. Tracking Pagehttps://agecomfort.com/pages/free-shipping.html'}, {'url': 'https://www.agecomfort.com/pages/financing', 'content': 'Discover AgeComfort.com, your trusted source for home healthcare and medical supplies. Explore a wide range of products designed to improve daily living, from mobility aids to incontinence solutions. Enjoy fast, discreet shipping and competitive pricing for your health and comfort needs.'}, {'url': 'https://agecomfort.zendesk.com/hc/en-ca/articles/30636448794900--How-to-place-an-order', 'content': '• How to place an order – Age Comfort Contact Us Returns Policy About Us Returns Policy Orders & Billing Orders • How to place an order • How can I check the status of my order ? • How can I change or cancel my order? • How to place an order For Online Orders: For Phone Orders: Call our toll-free number at 1-800-520-3259 to place an order over the phone. Was this article helpful? 0 out of 0 found this helpful • What is your shipping policy? • I’m new to Adult Diapers, can you help me select the right product? • Return Policy • How can I check the status of my order ? • Customer Service'}, {'url': 'https://senior.com/pages/tracking-1', 'content': 'Track Your Order: 1. Input your order number/email or your tracking number 2. Click "track" If you are unable to see your shipping status, or have a question regarding your delivery, fill out the form below and a member of our team will reach out to you regarding your shipment.'}, {'url': 'https://www.customerstatus.com/SearchUpdate.aspx', 'content': 'Look up your order status below: Option 1: Last Name & Order Number. Last Name. Order Number. Option 2: Email Address & Credit Card. Email Address. Last 4 Digits of Credit Card . Option 3: Phone Number & Credit Card. Phone Number. Last 4 Digits of Credit Card *no dashes, numbers only'}]
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "Customers can use various payment methods for purchases on AgeComfort.com, including credit cards and other standard online payment options. To track their orders, customers can use the tracking number provided in their order confirmation email and visit the AfterShip tracking page at https://www.aftership.com/track. Additionally, they can check the status of their order by contacting customer service or using the tracking tools available on the AgeComfort website."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  81%|███████████████████████████████████████████████████████████████████████████████████████▍                    | 81/100 [08:13<02:35,  8.21s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "To apply to the Armenian Relief Society Toronto Roubina Chapter - Social Service Office, you can call them at 416-495-0644, email them at arssocialservices@gmail.com, or visit their office in person at ARS Social Services, 45 Hallcrown Place, Toronto, ON, M2J 4Y4. Their office hours are Monday to Friday from 10 am to 4 pm. The services are free of charge and cater to children, youth, adults, and seniors from the community. For more details, you can also visit their website at www.acctoronto.ca/organizations/armenian-relief-so."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  82%|████████████████████████████████████████████████████████████████████████████████████████▌                   | 82/100 [08:18<02:09,  7.21s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Current Search",
+    "action_input": "Arcadia Home Care services eligibility criteria and benefits"
+}
+```
+Observation: [{'url': 'https://arcadiahomecare.com/about/', 'content': 'You may be able to use benefits of long term care or health insurance policies to help cover the cost of home care services. Care at home may also be purchased directly. Arcadia will verify your eligibility for home care benefits and help you design a care plan that is within your budget at no obligation or cost to you.'}, {'url': 'https://arcadiahomecare.com/benefits/', 'content': 'Benefits of Home Care. One of the benefits of choosing Arcadia Home Care versus a long-term care facility is one-on-one, client-centered care that focuses not only on the experience of our clients, but on "caregiver matching." ... City, ST of Zip Code of Services * Comment or Message. Submit. We\'re available 24 hours a day, 7 days a week'}, {'url': 'https://arcadiahomecare.com/care-at-home/', 'content': 'Some think home care is limited to skilled care, but this is only one type. Home care encompasses any service provided in the home. It includes nursing care, companionship, assistance with bathing and dressing, as well as basic homemaking chores. Different types of home care have different costs and potential funding sources. There are three'}, {'url': 'https://arcadiahomecare.com/the-three-types-of-home-care-available-through-arcadia-home-care/', 'content': "When it comes to non-medical in-home care, not everyone has the same needs. ... That's why Arcadia Home Care offers three different types of trained personnel to help with geriatric care for your loved one. Home Care Aides. ... The Benefits of In-Home Care. We're available 24 hours a day, 7 days a week!"}, {'url': 'https://www.indeed.com/cmp/Arcadia-Home-Care-and-Staffing/faq/benefits', 'content': '55 questions and answers about Arcadia Home Care and Staffing Benefits. Do you have to work holidays? Home. Company reviews. Find salaries. Sign in. Sign in. Employers / Post Job. 1 new update. Start of main content. Arcadia Home Care and Staffing. Work wellbeing score is 75 out of 100. 75. 3.4 out of 5 stars. 3.4. Follow. Write a review'}]
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "Arcadia Home Care services are available to individuals who may benefit from long-term care or health insurance policies to help cover the cost of home care services. Services can also be purchased directly. Arcadia assists in verifying eligibility for home care benefits and helps design a care plan tailored to individual needs and budgets, at no obligation or cost. The benefits of choosing Arcadia Home Care include personalized, one-on-one client-centered care, caregiver matching, and a variety of services such as nursing care, companionship, assistance with daily activities, and homemaking chores. These services are designed to meet diverse needs and are available 24/7."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  83%|█████████████████████████████████████████████████████████████████████████████████████████▋                  | 83/100 [08:43<03:30, 12.37s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Armenian Family Support Services supports the following languages: English, Armenian, and Farsi. The areas served include Halton Region, Peel Region, Durham, York Census Division, and the Greater Toronto Area."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  84%|██████████████████████████████████████████████████████████████████████████████████████████▋                 | 84/100 [08:46<02:32,  9.51s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario offers a Chronic Disease Management Program (CDMP) that includes various services to support individuals with chronic conditions. The program provides education, self-management skills, and support for conditions such as Chronic Kidney Disease (CKD) and cardiovascular diseases. For more information about CDMP and its services, you can visit their website or contact their office service inquiry hotline if you are an FHT registered patient. Community patients/clients can refer to the 'Events & Calendar' section to find group sessions open to non-registered patients."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  85%|███████████████████████████████████████████████████████████████████████████████████████████▊                | 85/100 [08:49<01:53,  7.55s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario provides a variety of services, including the Chronic Disease Management Program (CDMP). This program offers support for managing chronic conditions such as Chronic Kidney Disease (CKD) and cardiovascular diseases. Services include education, self-management skills, dietary counseling, and regular follow-ups. Some programs may have extra fees, and group sessions are available for community clients. For more details, you can visit their website or contact their office service inquiry hotline."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  86%|████████████████████████████████████████████████████████████████████████████████████████████▉               | 86/100 [08:51<01:24,  6.05s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario offers a variety of services aimed at promoting health and well-being, particularly for seniors and newcomers in the Greater Toronto Area. Here are some of the key services mentioned:\n\n1. **Mental Health Group Education**: The Carefirst Family Health Team (FHT) social work team provides group sessions to raise awareness about mental health, promote healthy lifestyles, and teach stress management and coping skills. Most sessions do not require a family physician referral, and upcoming sessions can be viewed on the FHT Calendar.\n\n2. **Musculoskeletal Health & Falls Prevention**: This program aims to improve mobility, reduce pain, prevent falls and fractures, and enhance physical function. Services include individual musculoskeletal health assessments, interventions, and group education/exercise sessions focused on fall prevention.\n\n3. **Events & Calendar**: Group sessions are held online via Zoom and are open to the public. For more information or to register, individuals can call (416) 847-8941.\n\n4. **Newcomer Mental Health Program**: Offers one-on-one brief counseling for newcomers with complex needs, referrals for short-term counseling in Ukrainian, comprehensive settlement needs assessments, and group activities that provide coping strategies and skill-building opportunities.\n\n5. **Active and Connected Seniors (ACS)**: Programs designed to keep seniors engaged and connected through various activities.\n\nFor additional details or inquiries, you can contact Carefirst at (416) 502-2323 or visit their website at https://carefirstontario.ca/."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  87%|█████████████████████████████████████████████████████████████████████████████████████████████▉              | 87/100 [08:55<01:11,  5.47s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Current Search",
+    "action_input": "Ontario Drug Benefits Co-Payments Program eligibility and application process"
+}
+```
+Observation: [{'url': 'https://www.ontario.ca/page/seniors-ontario-drug-benefit-deductible-and-prescription-co-payment', 'content': 'To avoid unnecessary delays and ensure timely processing, complete the Seniors Co-Payment Program Application available on the Ontario Drug Benefit Program Online Applications and Forms website. The online form will guide you through the application process to ensure all the information required for enrolment is provided before submission.'}, {'url': 'https://www.womenscollegehospital.ca/wp-content/uploads/2022/08/ODBP-Co-Payment-for-Low-Income-Seniors-Application.pdf', 'content': 'Co-Payment Application for Seniors . Guide. General Information. Once you turn 65, you automatically qualify to have your eligible prescription drug costs covered through the Ontario Drug Benefit (ODB) program. Your ODB coverage starts on the first day of the month after your 65. th. birthday, if you live in Ontario . and. have a valid Health Card.'}, {'url': 'https://www.uscont.ca/pdf/2021_Income_Eligibility_Seniors_Co-Payment_Program.pdf', 'content': 'prescription-drug-costs. Seniors Co-Payment Program (SCP) application To submit a Seniors Co-Payment Program application or supporting documentation, you can either: • fax the documents to 416-642-3034 • e-mail the documents to trillium@ontariodrugbenefit.ca • mail the documents to: Ontario Drug Benefit Program Ministry of Health'}, {'url': 'https://www.centralwesthealthline.ca/healthlibrary_docs/OntarioPublicDrugPrograms.pdf', 'content': 'Ontario Drug Benefit Program Eligibility: Through the Ontario Drug Benefit (ODB) Program, the Ministry of Health and Long-Term Care covers most of the cost of prescription ... minimize the impact of the EAP on prescribers and will make the process more transparent to prescribers and patients. ... a Co-payment Application for Seniors must be'}, {'url': 'https://www.ontario.ca/files/2024-05/moh-eo-notice-scp-thresholds-qs-and-as-en-2024-05-09.pdf', 'content': 'The Seniors Co-Payment Program (SCP) is an application-based program under the Ontario Drug Benefit (ODB) Program that provides financial assistance to qualifying seniors by reducing their out-of-pocket drug costs. All OHIP -insured seniors aged 65 years and over automatically qualify for the ODB Program on the first day of the month following the'}]
+Thought:```json
+{
+    "action": "Final Answer",
+    "action_input": "To apply for the Ontario Drug Benefits Co-Payments Program, you need to complete the Seniors Co-Payment Program Application. This application is available on the Ontario Drug Benefit Program Online Applications and Forms website. The online form will guide you through the process to ensure all required information is provided before submission. Once you turn 65, you automatically qualify for the Ontario Drug Benefit (ODB) program if you live in Ontario and have a valid Health Card. For additional details or assistance, you can contact the Ministry of Health."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  88%|███████████████████████████████████████████████████████████████████████████████████████████████             | 88/100 [09:01<01:05,  5.48s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The types of services available include:\n\n1. **Newcomer Programs:**\n   - Canada Connect: Mentorship for English conversation and cultural navigation.\n   - NEAT (Newcomers Explore and Appreciate Toronto): Volunteer experience and outdoor activities.\n   - Newcomers Speak Up for Success: Public speaking program.\n   - Interview Squad: Job search preparation.\n   - Artegration: Cultural experiences and volunteering opportunities.\n   - Newcomer Mental Health Program: Counseling, assessments, and group activities.\n\n2. **Training Programs:**\n   - Cybersecurity Training: For IT professionals to prepare for cybersecurity jobs.\n   - Labour Market Assistance Program: Job search support for newcomers and internationally trained professionals.\n   - Occupation-specific Language Training (OSLT): Workplace communication training in Hospitality.\n\n3. **Cycling Programs:**\n   - Bike Host: Mentorship to encourage cycling.\n   - Fun and Safe Bike to School programs.\n\n4. **Senior Care Services:**\n   - Active and Connected Seniors (ACS): Heavy care, dementia care, nursing services, meal plans, and more.\n\n5. **Assistive Devices Funding Program:** Financial assistance for equipment for persons with cerebral palsy.\n\n6. **Life Enriching Activity Funding Program (LEAF):** Opportunities for people with cerebral palsy to participate in enriching activities.\n\n7. **Driver and Vehicle Training Courses:**\n   - Snowmobile Operators Course, ARGO Operator Course, ATV Rider Course, Professional Driver Improvement Course, Utility Terrain (UTV) Side by Side Course.\n\n8. **Addiction Recovery Programs:**\n   - Continuing Care: Six-month program with 12-step facilitation and therapy interventions.\n   - Virtual Intensive Treatment: Six-week intensive sessions plus aftercare.\n   - Live-In Treatment: Publicly funded or fee-for-service options available at specific centers."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  89%|████████████████████████████████████████████████████████████████████████████████████████████████            | 89/100 [09:06<00:58,  5.35s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario offers a variety of services aimed at promoting health and well-being, particularly for seniors and newcomers. Relevant services include:\n\n1. **Mental Health Group Education**: Sessions provided by the Carefirst Family Health Team (FHT) social work team to raise awareness about mental health, promote healthy lifestyles, stress management, and coping skills. Most sessions do not require a family physician referral and are available online via Zoom.\n\n2. **Musculoskeletal Health & Falls Prevention**: A program designed to maximize mobility, reduce pain, prevent falls and fractures, and improve physical function. Services include individual musculoskeletal assessments and group education/exercise sessions.\n\n3. **Events & Calendar**: Carefirst hosts various group sessions and events that are open to the public. For more information or registration, individuals can call (416) 847-8941.\n\nThese programs aim to support the community's physical and mental health needs effectively. For further details, you can visit their website or contact them directly at (416) 502-2323."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  90%|█████████████████████████████████████████████████████████████████████████████████████████████████▏          | 90/100 [09:09<00:48,  4.85s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The user query seems to be asking about the services or programs mentioned in the provided content. Based on the relevant content, here are some of the services and programs:\n\n1. **Total Access Solutions**:\n   - Sales, rentals, and installation of mobility aids and home health care equipment (e.g., stairlifts, ceiling lifts, ramps, transport wheelchairs, bathroom aids).\n   - Services may be covered by organizations like March of Dimes, ODSP, Easter Seals, or insurance companies.\n   - Serves Keswick, Durham Region, Peel Region, York Region, Mono, and Toronto.\n\n2. **Addictions Supportive Housing (ASH)**:\n   - Provides housing and support for older adults (55+) with substance use issues and complex care needs.\n\n3. **Community Outreach Programs In Addictions (COPA)**:\n   - Outreach-based treatment for clients in their homes using harm reduction and counselling techniques.\n\n4. **Crisis Outreach Services For Seniors (COSS)**:\n   - Assessment and treatment for seniors with substance use or concurrent disorders.\n\n5. **Family And Caregiver Support Services**:\n   - Supportive counselling for families dealing with mental health issues.\n\n6. **Newcomer Programs**:\n   - Includes mentorship, public speaking training, job search preparation, cultural experiences, and mental health support for newcomers.\n\n7. **Cybersecurity Training**:\n   - IT security bridge training for internationally trained professionals.\n\n8. **Labour Market Assistance Program**:\n   - Job search assistance and workplace communication training for newcomers.\n\n9. **Active and Connected Seniors (ACS)**:\n   - Programs aimed at engaging seniors in activities to stay active and connected.\n\nIf you need more specific details about any of these services or programs, feel free to ask!"
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  91%|██████████████████████████████████████████████████████████████████████████████████████████████████▎         | 91/100 [09:15<00:44,  4.96s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario offers a Chronic Disease Management Program (CDMP) that includes various services aimed at helping patients manage chronic conditions. Programs include Chronic Kidney Disease (CKD) Management and Heart Health – Cardiovascular Prevention & Rehabilitation. These programs provide education, self-management skills, dietary counseling, and regular follow-ups. Some programs may have extra fees. For more details, FHT registered patients can call the office service inquiry hotline, while community patients/clients can refer to the 'Events & Calendar' section for group sessions open to non-registered patients. For further information, visit https://carefirstontario.ca/medical/cdmc/."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  92%|███████████████████████████████████████████████████████████████████████████████████████████████████▎        | 92/100 [09:18<00:34,  4.33s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario offers a Chronic Disease Management Program (CDMP) that includes various programs aimed at supporting patients with chronic conditions. These programs include the Chronic Kidney Disease (CKD) Management Program, which provides care and self-management education for patients with CKD, and the Heart Health – Cardiovascular Prevention & Rehabilitation Program, which supports patients diagnosed or at risk of hypertension and cardiovascular diseases. Some programs may have additional fees, and group sessions are available for community clients. For more details, you can refer to Carefirst's website or contact their office service inquiry hotline."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  93%|████████████████████████████████████████████████████████████████████████████████████████████████████▍       | 93/100 [09:20<00:26,  3.80s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Could you please clarify which specific requirements or eligibility criteria you are referring to? For example, are you asking about the Ontario Drug Benefits Co-Payments Program, citizenship application, Canada Pension Plan, long-term care facilities, or another service? Let me know so I can assist you better!"
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  94%|█████████████████████████████████████████████████████████████████████████████████████████████████████▌      | 94/100 [09:22<00:19,  3.30s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The name of the entity is Catalyste+."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  95%|██████████████████████████████████████████████████████████████████████████████████████████████████████▌     | 95/100 [09:24<00:14,  2.90s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The services supported include a wide range of programs and facilities catering to various needs such as behavioral support, housing, mental health, addiction support, and assistance for seniors. Specific services include:\n\n1. Behavioral Support Services - Mobile Support Team North\n2. Housing and Support Services (e.g., Beverley Lodge, Bradford House, Crosslinks Housing and Support Services)\n3. Community Treatment Programs\n4. Mental Health and Justice Initiatives\n5. Transitional Age Youth Programs\n6. Integrated Psycho-Geriatric Outreach Program (IPOP) - Aurora\n7. Daytime programming and support for women with mental health and/or substance use issues\n8. Assistance with daily living activities (e.g., oxygen therapy, feeding tubes, catheter care)\n9. Employment support programs like Better Jobs Ontario and Youth Job Connection\n10. Refugee claimant support through the Community Host Program\n\nThese services are available in areas such as Scarborough, Markham, Richmond Hill, Newmarket, North York, and Downtown Toronto. For more specific details or eligibility criteria, you may need to contact the respective service providers directly."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  96%|███████████████████████████████████████████████████████████████████████████████████████████████████████▋    | 96/100 [09:31<00:15,  4.00s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario offers a variety of services aimed at promoting health and well-being, particularly for seniors and newcomers in the community. Here are some of the key services:\n\n1. **Mental Health Group Education**: The Carefirst Family Health Team (FHT) social work team provides mental health group sessions to raise awareness about mental health, promote healthy lifestyles, teach stress management, and coping skills. Most sessions do not require a family physician referral, and upcoming sessions can be viewed on the FHT Calendar.\n\n2. **Musculoskeletal Health & Falls Prevention**: This program aims to maximize mobility and physical function, reduce pain and injury, and prevent falls and fractures for patients at risk. Services include individual musculoskeletal health assessments, interventions, and group education/exercise sessions focused on fall prevention.\n\n3. **Events & Calendar**: Group sessions are held online via Zoom and are open to the public. For more information or to register for a session, you can call (416) 847-8941.\n\n4. **Newcomer Programs**: These include mental health support, job search assistance, language training, cultural integration activities, and cybersecurity training for internationally trained professionals.\n\n5. **Active and Connected Seniors (ACS)**: Programs designed to keep seniors engaged and connected through various activities.\n\nFor further details or inquiries, you can contact Carefirst at (416) 502-2323 or visit their website at https://carefirstontario.ca."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  97%|████████████████████████████████████████████████████████████████████████████████████████████████████████▊   | 97/100 [09:37<00:13,  4.55s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario provides a variety of programs under its Chronic Disease Management Program (CDMP). These include services like the Chronic Kidney Disease Program, which offers education and support for managing chronic kidney disease, and the Heart Health program, which focuses on cardiovascular prevention and rehabilitation. Some programs may have additional fees, and group sessions are available for community patients/clients. For more information, registered patients can contact the office service inquiry hotline, while community clients can refer to the 'Events & Calendar' section on their website."
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▊  | 98/100 [09:39<00:07,  3.92s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "The user query seems to be asking about the services or programs mentioned in the provided content. Based on the relevant content, here are some of the services and programs:\n\n1. **Total Access Solutions**: Provides sales, rentals, and installation of mobility aids and home health care equipment such as stairlifts, ceiling lifts, ramps, transport wheelchairs, bathroom aids, and more. They serve areas including Keswick, Durham Region, Peel Region, York Region, Mono, and Toronto.\n\n2. **Addictions Supportive Housing (ASH)**: Offers housing and support for older adults (55+) with substance use issues and complex care needs.\n\n3. **Community Outreach Programs In Addictions (COPA)**: Provides outreach-based treatment for clients in their homes, focusing on harm reduction and counselling.\n\n4. **Crisis Outreach Services For Seniors (COSS)**: Offers assessment and treatment by a Geriatric Addiction Specialist for seniors with substance use or concurrent disorders.\n\n5. **Family And Caregiver Support Services**: Provides supportive counselling for families dealing with mental health issues.\n\n6. **Newcomer Programs**: Includes various programs like Canada Connect, NEAT, Newcomers Speak Up for Success, Interview Squad, Artegration, and others aimed at helping newcomers integrate into Canadian society through mentorship, skill-building, and cultural experiences.\n\n7. **Newcomer Mental Health Program**: Offers counselling and support for newcomers with complex needs.\n\n8. **Cybersecurity Training**: Prepares internationally trained IT professionals for jobs in cybersecurity.\n\n9. **Labour Market Assistance Program**: Helps newcomers and internationally trained professionals with job search plans, resume preparation, and interview skills.\n\n10. **Active and Connected Seniors (ACS)**: Likely a program aimed at engaging seniors in activities to stay active and connected.\n\nIf you need further details about any specific service or program, feel free to ask!"
+}
+```
+
+> Finished chain.
+Asking questions to the agent:  99%|██████████████████████████████████████████████████████████████████████████████████████████████████████████▉ | 99/100 [09:45<00:04,  4.54s/it] 
+
+> Entering new AgentExecutor chain...
+```json
+{
+    "action": "Final Answer",
+    "action_input": "Carefirst Ontario offers a variety of programs under its Chronic Disease Management Program (CDMP). These include services like the Chronic Kidney Disease (CKD) Management Program, which provides care and self-management education for patients with chronic kidney disease, and the Heart Health – Cardiovascular Prevention & Rehabilitation Program, which supports patients diagnosed or at risk of hypertension and cardiovascular diseases. Some programs may have extra fees, and group sessions are available for community clients. For more details, you can visit their website or contact their office service inquiry hotline if you are an FHT registered patient."
+}
+```
+
+> Finished chain.
+Asking questions to the agent: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [09:48<00:00,  5.88s/it] 
+CorrectnessMetric evaluation: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [02:21<00:00,  1.41s/it] 
+2025-01-21 17:54:32,655 pid:31384 MainThread giskard.rag  INFO     Finding topics in the knowledge base.
+2025-01-21 17:54:41,852 pid:31384 MainThread giskard.rag  INFO     Found 5 topics in the knowledge base.
+✅ RAG evaluation report saved as 'rag_eval_report.html'.
