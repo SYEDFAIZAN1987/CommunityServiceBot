@@ -1,0 +1,14 @@
+huggingface_hub==0.25.2
+faiss-cpu==1.9.0
+gradio==5.7.1
+ipython==8.29.0
+langchain==0.3.8
+langchain-community==0.3.7
+langchain-huggingface==0.1.2
+langchain-openai==0.2.10
+numpy==1.26.4
+openai==1.56.1
+pydantic==2.9.2
+python-dotenv==1.0.1
+python-magic==0.4.27
+duckduckgo-search
