@@ -4,11 +4,11 @@
 
 ## 📌 Project Overview
 
-The **Carefirst Chatbot** is a **proprietary AI-driven assistant** designed for **Carefirst Ontario Services**, primarily serving **Chinese-speaking seniors** in Scarborough, Markham, Richmond Hill, Newmarket, North York, and Downtown Toronto.
+The **Carefirst Chatbot** is a **proprietary AI-driven assistant** designed for **Carefirst Ontario Services**, primarily serving **seniors** in Scarborough, Markham, Richmond Hill, Newmarket, North York, and Downtown Toronto.
 
 This chatbot is developed under the supervision of **Dr. Yvonne Leung** and is the **intellectual property of Dr. Yvonne Leung**. Unauthorized use, modification, or distribution is strictly prohibited.
 
-The chatbot leverages **Giskard** for robust **Retrieval-Augmented Generation (RAG) evaluation** using **RAGAS metrics** to ensure accuracy and relevancy of responses.
+The chatbot leverages **Giskard** for robust **Retrieval-Augmented Generation (RAG) evaluation** using **varied metrics** to ensure accuracy and relevancy of responses.
 
 ---
 
@@ -36,8 +36,6 @@ Carefirst/
 │── requirements.txt    # Dependencies list
 │── README.md           # This file
 ```
----
-
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Prerequisites
@@ -46,80 +44,106 @@ Ensure you have **Python 3.8+** installed along with `pip`. Install dependencies
 
 ```bash
 pip install -r requirements.txt
-2️⃣ Set Up API Keys
-Set up OpenAI API Key and Tavily API Key in your environment:
+```
 
-bash
-Copy
-Edit
+### 2️⃣ Set Up API Keys
+
+Set up **OpenAI API Key** and **Tavily API Key** in your environment:
+
+#### **For Linux/macOS:**
+```bash
 export OPENAI_API_KEY="your-openai-api-key"
 export TAVILY_API_KEY="your-tavily-api-key"
-For Windows (PowerShell):
+```
 
-powershell
-Copy
-Edit
+#### **For Windows (PowerShell):**
+```powershell
 $env:OPENAI_API_KEY="your-openai-api-key"
 $env:TAVILY_API_KEY="your-tavily-api-key"
-🎯 Running the Chatbot
+```
+
+---
+
+## 🎯 Running the Chatbot
+
 Launch the chatbot using:
 
-bash
-Copy
-Edit
+```bash
 python app.py
-This will start a Gradio web app, allowing users to interact with the chatbot.
+```
 
-📊 RAG Evaluation with Giskard
-Step 1: Generate the Test Set
-Run eval.py to generate and evaluate the test set using Giskard:
+This will start a **Gradio web app**, allowing users to interact with the chatbot.
 
-bash
-Copy
-Edit
+---
+
+## 📊 RAG Evaluation with Giskard
+
+### Step 1: Generate the Test Set
+
+Run `eval.py` to generate and evaluate the test set using **Giskard**:
+
+```bash
 python eval.py
+```
+
 This performs:
 
-Test Set Generation (my_testset.jsonl)
-RAG Evaluation (stored in rag_eval_report.html)
-🧪 RAGAS Metrics Evaluation
-The chatbot’s accuracy is validated using RAGAS metrics, including:
+- **Test Set Generation** (`my_testset.jsonl`)
+- **RAG Evaluation** (stored in `rag_eval_report.html`)
 
-Context Recall (relevant document retrieval)
-Faithfulness (ground truth consistency)
-Context Precision (correct document matching)
-Answer Relevancy (response appropriateness)
+---
+
+## 🧪 RAGAS Metrics Evaluation
+
+The chatbot’s accuracy is validated using **RAGAS metrics**, including:
+
+- **Context Recall** (relevant document retrieval)
+- **Faithfulness** (ground truth consistency)
+- **Context Precision** (correct document matching)
+- **Answer Relevancy** (response appropriateness)
+
 To run RAGAS-based evaluation:
 
-bash
-Copy
-Edit
+```bash
 python ragas.py
-This generates a detailed RAGAS evaluation report, stored as:
+```
 
-yaml
-Copy
-Edit
+This generates a **detailed RAGAS evaluation report**, stored as:
+
+```yaml
 ragas_eval_report.html
+```
+
 View it in any web browser.
 
-⚠️ Proprietary Notice
-⚠️ IMPORTANT: This chatbot is the intellectual property of Dr. Yvonne Leung. Unauthorized reproduction, distribution, or modification is strictly prohibited.
+---
 
-For inquiries, contact Dr. Yvonne Leung.
+## ⚠️ Proprietary Notice
 
-🛠️ Future Enhancements
-Improve multi-language support for users with limited English proficiency
-Optimize vector search for faster response retrieval
-Expand knowledge base for broader service coverage
-Enhance accuracy of RAGAS metrics with fine-tuned models
-👨‍💻 Developers
-Syed Faizan (Lead Developer)
-Dr. Yvonne Leung (Supervisor & Owner)
-✅ Key Inclusions
-✅ Branding & Proprietary Notice
-✅ Evaluation Process using Giskard & RAGAS
-✅ Installation & Setup Guide
-✅ Project Structure & Key Files
+⚠️ **IMPORTANT**: This chatbot is the **intellectual property of Dr. Yvonne Leung**. Unauthorized reproduction, distribution, or modification is strictly **prohibited**.
+
+For inquiries, contact **Dr. Yvonne Leung**.
+
+---
+
+## 🛠️ Future Enhancements
+
+- Improve **multi-language support** for users with limited English proficiency
+- Optimize **vector search** for faster response retrieval
+- Expand **knowledge base** for broader service coverage
+- Enhance **accuracy of RAGAS metrics** with fine-tuned models
+
+
+---
+
+## ✅ Key Inclusions
+
+- ✅ **Branding & Proprietary Notice**
+- ✅ **Evaluation Process using Giskard & RAGAS**
+- ✅ **Installation & Setup Guide**
+- ✅ **Project Structure & Key Files**
+
+
+
 
 
