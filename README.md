@@ -1,10 +1,10 @@
-# Carefirst Chatbot - Proprietary AI Chatbot
+# Community Service Chatbot - Proprietary AI Chatbot
 
-![Carefirst Logo](https://github.com/SYEDFAIZAN1987/CareFirst/blob/main/Carefirst/carefirst_logo.png)
+
 
 ## 📌 Project Overview
 
-The **Carefirst Chatbot** is a **proprietary AI-driven assistant** designed for **Carefirst Ontario Services**, primarily serving **seniors** in Scarborough, Markham, Richmond Hill, Newmarket, North York, and Downtown Toronto.
+The **Community Service Chatbot** is a **proprietary AI-driven assistant** designed for **Carefirst Ontario Services**, primarily serving **seniors** in Scarborough, Markham, Richmond Hill, Newmarket, North York, and Downtown Toronto.
 
 This chatbot is developed under the supervision of **Dr. Yvonne Leung** and is the **intellectual property of Dr. Yvonne Leung**. Unauthorized use, modification, or distribution is strictly prohibited.
 
