@@ -106,7 +106,8 @@ def evaluate_rag_system(queries):
     dataset = Dataset.from_dict({
         "question": queries,
         "answer": responses,
-        "contexts": retrieved_docs
+        "contexts": [[doc] for doc in retrieved_docs],
+        "reference": df_test["reference_answer"].tolist()
     })
 
     # Define metrics for evaluation
@@ -116,8 +117,7 @@ def evaluate_rag_system(queries):
     )
 
     print("\n=== RAGAS Evaluation Metrics ===")
-    for metric, value in results.items():
-        print(f"{metric}: {value:.3f}")
+    print(results)
 
     return results
 
