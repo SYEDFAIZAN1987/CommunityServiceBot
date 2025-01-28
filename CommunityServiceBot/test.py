@@ -9,10 +9,10 @@ df = pd.read_csv(file_path)
 # Initialize the Giskard Knowledge Base
 knowledge_base = KnowledgeBase.from_pandas(df, columns=["question", "answer"])
 
-# Generate a test set with 100 questions
+# Generate a test set with 10 questions
 testset = generate_testset(
     knowledge_base,
-    num_questions=100,  # Change this to generate more questions
+    num_questions=10,  # Change this to generate more questions
     language="en",
     agent_description="A specialized healthcare and community services consultant designed to assist seniors in Scarborough, Markham, Richmond Hill, Newmarket, North York, and Downtown Toronto.",  # Helps generate better questions
 )
